@@ -1,4 +1,4 @@
 # springboot-mapstruct-example
 
 MapStruct integration with SpringBoot. 
-Reference: https://github.com/mapstruct/mapstruct
+Article: https://techshard.com/2019/04/28/automating-code-with-mapstruct/
